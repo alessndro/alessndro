@@ -35,6 +35,16 @@ Project 4:
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64f9becf5ce9f4ca589e6d6f?variant=dark)](https://roadmap.sh)
 
+# 
+
+###🦜 Let's connect
+
+  <a href="mailto:alessandrodegenkamp@hotmail.com target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://nl.linkedin.com/in/alessandro-degenkamp-390a231b5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 #
 
 <details>
