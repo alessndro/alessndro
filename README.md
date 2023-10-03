@@ -39,7 +39,7 @@ Project 4:
 
 ###🦜 Let's connect
 
-  <a href="mailto:alessandrodegenkamp@hotmail.com target="_blank">
+  <a href="mailto:alessandrodegenkamp@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://nl.linkedin.com/in/alessandro-degenkamp-390a231b5" target="_blank">
@@ -55,7 +55,6 @@ I've always had a keen interest in business, entrepreneurship, and the world of 
 My first real interaction with coding happened during my time at the University of Amsterdam (UvA), where I embarked on a minor in Programming. After graduating with my Bachelor's and Master's degrees, I decided to take a brief hiatus from studying to explore the world and immerse myself in different cultures. I spent an incredible 8 months traveling through Asia, soaking in the sights, sounds, and inspirations from all corners of the globe.
 
 During my travels, I realized that my passion for coding and web development was still very much alive and that I wanted to pursue it further. The dynamic world of front-end web development, in particular, captured my imagination.
-
-And so, I returned from my adventures in Asia with a renewed sense of purpose. I embarked on a journey to learn and master front-end web development, combining my love for design and technology to create beautiful and functional user experiences.
+And so, I returned from my adventures in Asia with a renewed sense of purpose. I embarked on a journey to learn and master front-end web development.
 
 [website]: -
