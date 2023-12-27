@@ -1,4 +1,4 @@
-# 👾 Alessndro
+# 👾 Alessandro Degenkamp
 
 **`Front End Developer`** **`Entrepreneur`** **`Product Owner`**
 
