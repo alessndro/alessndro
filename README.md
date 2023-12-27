@@ -22,28 +22,23 @@ I've always had a keen interest in business, entrepreneurship, and the world of 
 ### 🔨 Latest Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
-Project 1: Portfolio website
-Project 2: Calm.
-Project 3: Traveler's Insight
-Project 4: MindScribe
-
 <ul>
-  <li>Portfolio website
+  <li>Project 1: Portfolio website
   <ul>
       <li>https://jolly-rolypoly-c799aa.netlify.app</li>
   </ul>
   </li>
-  <li>Calm.
+  <li>Project 2: Calm.
    <ul>
       <li>https://spectacular-tartufo-1e017e.netlify.app</li>
     </ul>
   </li>
-  <li>Traveler's Insight
+  <li>Project 3: Traveler's Insight
      <ul>
       <li>https://gotravelapp.netlify.app</li>
     </ul>
   </li>
-   <li>MindScribe
+   <li>Project 4: MindScribe
      <ul>
       <li>https://lighthearted-tulumba-ad8574.netlify.app</li>
     </ul>
