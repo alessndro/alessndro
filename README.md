@@ -3,7 +3,6 @@
 **`Front End Developer`**
 
 I've always had a keen interest in business, entrepreneurship, and the world of technology. While pursuing my studies in business administration and later earning my Master's degree in Entrepreneurship, I couldn't help but be drawn to the endless possibilities that technology and programming offered.
----
 
 ### 🧰 Languages and Tools
 
