@@ -2,7 +2,7 @@
 
 **`Front End Developer`** **`Entrepreneur`** **`Product Owner`**
 
-Hey 👋, I'm Alessandro, an enthusiastic young professional with a unique background in both business administration and IT. I strive to bring these two worlds together in the role of Product Owner. I have a master's in Entrepreneurship from VU and UvA, and a bachelor's in Business Administration from UvA, with a minor in programming. After I traveled the world for 8 months, I decided to broaden my skills related to IT and finished a Front end development bootcamp at Scrimba with additional certificates. In my free time, I like to read, spend time with friends, or play sports.
+Hey 👋, I'm Alessandro, an enthusiastic young professional with a unique background in both business administration and IT. I strive to bring these two worlds together in the role of Product Owner. I have a master's in Entrepreneurship from VU and UvA, and a bachelor's in Business Administration from UvA, with a minor in programming. After I traveled Asia for 8 months, I decided to broaden my skills related to IT and finished a Front end development bootcamp at Scrimba with additional certificates. In my free time, I like to read, spend time with friends, or play sports.
 
 ### 🧰 Languages and Tools
 
