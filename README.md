@@ -22,10 +22,10 @@ I've always had a keen interest in business, entrepreneurship, and the world of 
 ### 🔨 Latest Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
-Project 1: -
-Project 2: -
-Project 3: - 
-Project 4: -
+Project 1: Portfolio website
+Project 2: Calm.
+Project 3: Traveler's Insight
+Project 4: MindScribe
 
 <!-- END YOUTUBE-CARDS -->
 
